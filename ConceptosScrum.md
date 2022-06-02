@@ -28,4 +28,20 @@ en el Sprint. La idea es centrar al equipo en lo que salió bien y en lo que deb
 De ninguna manera se centra en lo que salió mal.
 **Participa todo el equipo**
 
+## Roles desempeñandos por el equipo de Scrum 
 
+#### *Scrum Master*
+
+Quien irá a liderar el proyecto y velar para que se cumplan las normas y procesos establecidos. 
+Es quien se encarga de eliminar los posibles retrasos que surjan en el proyecto para que este avance. 
+Además, trabaja de la mano del Product Owner para maximizar el retorno sobre la inversión del proyecto.
+
+#### *Product Owner*
+
+Representante de los inversionistas y parte financiera del proyecto, encargada de demostrar el ROI (Retorno de la Inversión),
+comunica las expectativas al equipo, interviene en la creación del product backlog (pila de producto).
+
+#### *Equipo (Development Team)*
+
+Profesionales que cuentan con las habilidades requeridas para ejecutar las diferentes tareas del proyecto, 
+directos responsables por el desarrollo de la Sprint y su avance, así como de informar en el burn down los avances del proyecto.
