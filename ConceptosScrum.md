@@ -45,3 +45,30 @@ comunica las expectativas al equipo, interviene en la creación del product back
 
 Profesionales que cuentan con las habilidades requeridas para ejecutar las diferentes tareas del proyecto, 
 directos responsables por el desarrollo de la Sprint y su avance, así como de informar en el burn down los avances del proyecto.
+
+## *Artefactos Scrum*
+
+Son aquellos elementos físicos que se producen como resultado de la aplicación del Scrum, los cuales permiten garantizar la transparencia y el registro de la información fundamental del proceso.
+Los tres principales artefactos Scrum son:
+
+#### *Product Backlog*
+
+Lista ordenada de elementos, que a partir de una vision inicial del producto, crece y evoluciona durante el proyecto.
+Dichos elementos en su mayoría son requerimientos para completar el producto, los cuales deben ser detallados, claros y estimados.
+Se escribe en forma de historia de usuario.
+El propietario del Product Backlog es el Product Owner (PO), encargado de ingresar y priorizar los elementos en ella.
+Es importante mencionar que debe haber un solo Product Backlog por proyecto, como asi también definir cuando su estado se encuentra finalizado.
+
+#### *Sprint Backlog*
+
+Es el conjunto de los elementos del Product backlog seleccionados para el Sprint, más un plan para entregar el incremento de producto y conseguir el objetivo Sprint.
+Es una lista dinámica, sin embargo el Development Team no puede incluir más tareas si estas atentan contra el Spring Backlog, sin antes consultar al Product Owner.
+Generalmente se trabaja en tablero kanban, donde los elementos fueron desglosados en tareas técnicas.
+El propietario del Sprint Backlog es el Development Team, mientras el Scrum Master verifica las tareas realizadas por el equipo y de allí extrae los reportes del avance. 
+
+#### *Increment*
+
+Elementos finalizados del Product Backlog en el Sprint, en condición de ser usados, más los incrementos obtenidos anteriormente.
+Si un elemento no cumple con la definición exacta de "terminado" previamente establecida, no es parte del incremento del producto.
+El incremento del producto es revisado una vez finalizado el Sprint (Spirnt Review).
+La decisión si el incremento del producto se libera para pasarlo a un ambiente productivo es del Product Owner (Release)
