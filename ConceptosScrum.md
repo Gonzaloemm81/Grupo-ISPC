@@ -71,5 +71,5 @@ El propietario del Sprint Backlog es el Development Team, mientras el Scrum Mast
 Elementos finalizados del Product Backlog en el Sprint, en condición de ser usados, más los incrementos obtenidos anteriormente.
 Si un elemento no cumple con la definición exacta de "terminado" previamente establecida, no es parte del incremento del producto.
 El incremento del producto es revisado una vez finalizado el Sprint (Spirnt Review).
-La decisión si el incremento del producto se libera para pasarlo a un ambiente productivo es del Product Owner (Release).
+La decisión si el incremento del producto se libera para pasarlo a un ambiente productivo es del Product Owner (Release)
 
